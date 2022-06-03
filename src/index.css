@@ -1,0 +1,19 @@
+.title{
+    color: red;
+
+}
+
+.card{
+    color:rgb(2, 8, 14);
+    background: rgb(235, 172, 172);
+    height: 400px;
+    width: 250px;
+    margin: 5px;
+    padding: 5px;
+    border: 2px solid black;
+
+}
+.card img{
+    height: 250px;
+    width: 240px;
+}
